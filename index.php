@@ -7,3 +7,5 @@ Endereço: RUA MARIO YPIRANGA 1039 - ADRIANOPOLIS - MANAUS - AM -
 CEP:69057-001
 Complemento: CLINIMAGEM
 Horário: 5ª,Sábado das 06:00 às 08:00 2ª a 4ª,6ª das 06:00 às 10:00
+
+Médico
